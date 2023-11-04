@@ -1,7 +1,6 @@
 package Basics;
 
 public class multipleVariables {
-
 	public static void main(String[] args) {
 		int x,y,z; //3 dabbe create kar diye
 		x=5;
