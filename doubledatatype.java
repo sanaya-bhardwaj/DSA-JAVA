@@ -12,6 +12,11 @@ public class doubledatatype {
 		System.out.println(z2);
 		//double gives answers in point 
 
+		System.out.println(x+y);
+		System.out.println(x-y);
+		System.out.println(x*y);
+		System.out.println(x/y);
+
 	}
 
 }
