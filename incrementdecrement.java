@@ -14,6 +14,10 @@ public class incrementdecrement {
 		System.out.println(x);
 		--x; //it also means x=x-1
 		System.out.println(x);
+		
+		//x++ is "use x and then increment"
+		//++x is "increment x and then use"
 	}
 
 }
+
