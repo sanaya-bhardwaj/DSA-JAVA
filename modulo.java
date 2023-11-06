@@ -8,7 +8,7 @@ public class modulo {
 		int a = sc.nextInt();
 		System.out.println("Enter divisor:");
 		int b= sc.nextInt();
-		int r =a%b;
+		int r =a%b; //gives remainder 
 		System.out.println("The remainder when "+a+" is divided by "+b+" is "+r );
 		
 	}
