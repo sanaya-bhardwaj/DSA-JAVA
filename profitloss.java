@@ -12,9 +12,13 @@ public class profitloss {
 		//sp-cp=profit & cp-sp=loss
 		if(sp>cp) {
 			System.out.println("PROFIT");
+			System.out.print("Your profit is: Rs ");
+			System.out.println(sp-cp);
 		}
 		else { //cp>sp---loss
 			System.out.println("LOSS");
+			System.out.print("Your loss is: Rs ");
+			System.out.println(cp-sp);
 		}
 	}
 	
