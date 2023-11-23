@@ -3,6 +3,7 @@ package Basics;
 public class basics{
 	public static void main(String[] args) {
 		//System.out.println("Hello");
+		
 		//System.out.print("World"); 
 		//print kept the text on the same line, 
 		//while println moved to a new line after each statement.	
