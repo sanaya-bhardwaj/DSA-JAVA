@@ -1,4 +1,5 @@
 package Conditional;
+
 import java.util.Scanner;
 //Take positive integer input and tell if it is divisible by 5 but not divisible by 3
 public class divisibleby5and3 {
