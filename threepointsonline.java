@@ -15,5 +15,4 @@ public class threepointsonline {
 			System.out.println("they do not lie on a single line");
 		}
 	}
-
 }
