@@ -13,5 +13,4 @@ public class sumof2inputnum {
 		int sum=x+y;
 		System.out.println("sum is:"+sum);
 	}
-
 }
