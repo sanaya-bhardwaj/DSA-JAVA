@@ -26,3 +26,8 @@ public class Swapping2Numbers
 //a=a*b; //10*20=200
 //b=a/b; //200/20=10
 //a=a/b; //200/10=20
+
+//Logic 4 - bitwise XOR (^)
+//a=a^b; //10^20=30
+//b=a^b; //30^20=10
+//a=a^b; //30^10=20
