@@ -17,3 +17,14 @@ public class Main
 		System.out.println("Reverse Number is:"+rev);
 	}
 }
+
+//Using StringBuffer class
+StringBuffer rev;
+//creates a 'StringBuffer' object 'sb' initialized with the string representation of 'num'.
+StringBuffer sb = new StringBuffer(String.valueOf(num)); //Convert Num to String 
+StringBuffer rev=sb.reverse(); //Reverse the StringBuffer then print the reverse num 
+
+//A StringBuffer in Java is a class used to create mutable (modifiable) string objects. 
+//Unlike String objects, which are immutable (once created, their values cannot be changed), StringBuffer objects can be modified after they are created. 
+//This makes StringBuffer particularly useful when you need to perform a lot of modifications on a string, such as appending, inserting, or reversing characters.
+
