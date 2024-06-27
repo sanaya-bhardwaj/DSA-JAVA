@@ -31,3 +31,6 @@ public class Swapping2Numbers
 //a=a^b; //10^20=30
 //b=a^b; //30^20=10
 //a=a^b; //30^10=20
+
+//Logic 5 - single statement
+//b=a+b-(a=b); (right to left execution) <-----
