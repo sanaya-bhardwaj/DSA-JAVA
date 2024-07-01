@@ -1,5 +1,6 @@
 //Solution1
 //using + (string concatenation) operator 
+//Java String concatenation operator (+) is used to add strings.
 public class Main
 {
 	public static void main(String[] args) {
