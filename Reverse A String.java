@@ -26,3 +26,6 @@ int len= a.length; //4
 for(int i=len-1;i>=0;i++){
 	rev = rev +a[i];
 }
+
+
+//solution3
