@@ -19,3 +19,10 @@ public class Main
 
 //solution2
 //using character array
+
+char a[]=str.toCharArray();
+int len= a.length; //4
+
+for(int i=len-1;i>=0;i++){
+	rev = rev +a[i];
+}
