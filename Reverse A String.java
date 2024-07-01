@@ -1,5 +1,5 @@
 //Solution1
-
+//using + (string concatenation) operator 
 public class Main
 {
 	public static void main(String[] args) {
