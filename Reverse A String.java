@@ -30,3 +30,6 @@ for(int i=len-1;i>=0;i++){
 
 //solution3
 //using String Buffer class
+
+StringBuffer sb = new StringBuffer(str);
+System.out.println(sb.reverse());
