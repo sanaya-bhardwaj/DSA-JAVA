@@ -18,3 +18,4 @@ public class Main
 
 
 //solution2
+//using character array
