@@ -34,3 +34,5 @@ public class Main {
 //Using Ternary operator
 //a=10 b=10
 //largest = a>b?a:b
+
+//variable = Expression1 ? Expression2: Expression3
