@@ -36,4 +36,7 @@ public class Main {
 //largest = a>b?a:b
 
 //variable = Expression1 ? Expression2: Expression3
+int largest1=a>b?a:b; //largest of a & b
+int largest2=c>largest?c:largest1; //largest of c& largest1
+System.out.println(largest2+"is largest number");
 
