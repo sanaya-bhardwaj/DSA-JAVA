@@ -33,6 +33,8 @@ String sentence = " my name is tony";
 //substring(beg index, end index)
 String name = sentence.substring(11,sentence.length());
 System.out.println(name);
+
+// Strings are Immutable
   
 
     
